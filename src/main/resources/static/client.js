@@ -7,3 +7,5 @@ console.log("Marshmallow Man");
 
 console.log("Sushi the Rat");
 
+console.log("Ninja the Rat");
+console.log("Oats the Mouse");
