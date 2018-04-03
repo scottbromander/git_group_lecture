@@ -1,2 +1,3 @@
-console.log("Woof Dog");
-console.log("Meow Cat")
+console.log("Woof Doggy Dog");
+console.log("Meow Cat");
+
